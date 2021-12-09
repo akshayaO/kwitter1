@@ -1,0 +1,17 @@
+html, body{
+    height: 100%;
+    margin: 0;
+}
+
+#heading{
+    text-align: center;
+}
+
+#home{
+    text-align: center;
+}
+#user_name{
+    width: 300px;
+    text-align: center;
+    margin-left: 600px;
+}
